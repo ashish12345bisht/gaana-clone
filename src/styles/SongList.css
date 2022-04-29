@@ -1,0 +1,28 @@
+.song__list{
+    width: 95vw;
+    margin:auto;
+}
+.song__item{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    border-bottom: 2px solid #d3d3d3;
+}
+.song__item h4{
+    font-size:20px;
+}
+.song__item h5{
+    font-size:16px;
+    color:#858383;
+}
+.song__item img{
+    width: 40px;
+    height:40px;
+}
+.song__item__name{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+}

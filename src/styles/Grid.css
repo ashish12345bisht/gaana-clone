@@ -1,0 +1,7 @@
+.new__songs__container{
+    width:96vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,22 @@
+.player__banner{
+    height: 400px;
+    display:flex;
+    width: 95vw;
+    margin:auto;
+    margin-bottom:50px;
+}
+.player__banner >img{
+    margin-right:20px;
+}
+.player__banner>div{
+    padding-top:200px;
+}
+.player__banner button{
+    width:100px;
+    border:none;
+    outline:none;
+    background-color:red;
+    color:white;
+    padding:0.5em 1em;
+    border-radius:30px;
+}
