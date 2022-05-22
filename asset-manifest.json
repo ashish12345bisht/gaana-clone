@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gaana-clone/static/css/main.51065d0e.css",
+    "main.js": "/gaana-clone/static/js/main.0d6d2376.js",
+    "index.html": "/gaana-clone/index.html",
+    "main.51065d0e.css.map": "/gaana-clone/static/css/main.51065d0e.css.map",
+    "main.0d6d2376.js.map": "/gaana-clone/static/js/main.0d6d2376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51065d0e.css",
+    "static/js/main.0d6d2376.js"
+  ]
+}
