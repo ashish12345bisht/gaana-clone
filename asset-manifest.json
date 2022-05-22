@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gaana-clone/static/css/main.973f059a.css",
-    "main.js": "/gaana-clone/static/js/main.1951cc24.js",
+    "main.js": "/gaana-clone/static/js/main.fb52c638.js",
     "index.html": "/gaana-clone/index.html",
     "main.973f059a.css.map": "/gaana-clone/static/css/main.973f059a.css.map",
-    "main.1951cc24.js.map": "/gaana-clone/static/js/main.1951cc24.js.map"
+    "main.fb52c638.js.map": "/gaana-clone/static/js/main.fb52c638.js.map"
   },
   "entrypoints": [
     "static/css/main.973f059a.css",
-    "static/js/main.1951cc24.js"
+    "static/js/main.fb52c638.js"
   ]
 }
