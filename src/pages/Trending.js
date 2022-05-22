@@ -1,12 +1,10 @@
-import React from 'react'
-import Header from "../components/Header";
-import SongList from '../components/SongList';
-import PlayerBanner from '../components/PlayerBanner'
+import React from "react";
+import SongList from "../components/SongList";
+import PlayerBanner from "../components/PlayerBanner";
 
 function Trending() {
   return (
     <div>
-      <Header />
       <PlayerBanner
         img={
           "https://geo-media.beatport.com/image_size/250x250/32e549ef-8fd5-48a4-9a7c-3ae5ac9960c6.jpg"
@@ -19,4 +17,4 @@ function Trending() {
   );
 }
 
-export default Trending
+export default Trending;

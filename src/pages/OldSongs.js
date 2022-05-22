@@ -1,12 +1,10 @@
-import React from 'react'
-import Header from "../components/Header";
+import React from "react";
 import SongList from "../components/SongList";
-import PlayerBanner from '../components/PlayerBanner';
+import PlayerBanner from "../components/PlayerBanner";
 
 function OldSongs() {
   return (
     <div>
-      <Header />
       <PlayerBanner
         img={
           "https://mobstatus.com/wp-content/uploads/2021/10/mere-sapno-ki-rani.jpg"
@@ -19,4 +17,4 @@ function OldSongs() {
   );
 }
 
-export default OldSongs
+export default OldSongs;

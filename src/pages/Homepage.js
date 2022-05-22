@@ -1,13 +1,10 @@
-import React from 'react'
-import SwiperContainer from '../components/SwiperContainer'
-import BannerContainer from '../components/BannerContainer'
-import Header from '../components/Header'
-
+import React from "react";
+import SwiperContainer from "../components/SwiperContainer";
+import BannerContainer from "../components/BannerContainer";
 
 function Homepage() {
   return (
     <div>
-      <Header />
       <BannerContainer />
       <SwiperContainer
         title={"Trending Songs"}
@@ -31,11 +28,15 @@ function Homepage() {
         }
         name={"Mere Sapno Ki Rani"}
       />
-      <SwiperContainer title={"English Songs"}
-      img={"https://a10.gaanacdn.com/images/albums/52/1839852/crop_480x480_1839852.jpg"}
-      name={"Shape of You"} />
+      <SwiperContainer
+        title={"English Songs"}
+        img={
+          "https://a10.gaanacdn.com/images/albums/52/1839852/crop_480x480_1839852.jpg"
+        }
+        name={"Shape of You"}
+      />
     </div>
   );
 }
 
-export default Homepage
+export default Homepage;
