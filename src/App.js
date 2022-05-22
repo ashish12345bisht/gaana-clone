@@ -10,7 +10,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/directory-name">
         <Header />
         <Routes>
           <Route index path="/" element={<Homepage />} />
